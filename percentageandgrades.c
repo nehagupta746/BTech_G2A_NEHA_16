@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
 {
-
 int phy,chem,maths,eng,cs,percentage;
 printf("Enter the marks of physics:");
 scanf("%d",&phy);
@@ -37,4 +36,5 @@ else{
     printf("Grade D");
 }
 return 0;
+
 }
